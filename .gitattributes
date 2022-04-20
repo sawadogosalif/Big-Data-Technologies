@@ -1,0 +1,3 @@
+*.md linguist-detectable=true
+*.ipynb linguist-language=PySpark
+*.py linguist-language=Python
