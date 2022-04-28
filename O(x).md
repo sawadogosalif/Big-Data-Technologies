@@ -24,15 +24,3 @@ Knowing how to minimize the big O of an algorithm is one of the things that sepa
 
 
 
-Thanks to Zach Wilson
-
-Pourquoi la selection
-
-La parcimonie
-Interprétabilité
-p>n
-
-Definir la méthode de selection 
-les variables candidates
-le modele assiocié
-effet marginal non nul
