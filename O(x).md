@@ -21,4 +21,18 @@ A lot of sorting algorithms. Like quick sort, merge sort etc.
 Knowing how to minimize the big O of an algorithm is one of the things that separates the good software engineers from the great ones.
 
 
+
+
+
 Thanks to Zach Wilson
+
+Pourquoi la selection
+
+La parcimonie
+Interprétabilité
+p>n
+
+Definir la méthode de selection 
+les variables candidates
+le modele assiocié
+effet marginal non nul
